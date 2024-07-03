@@ -17,7 +17,7 @@
 
 🔭 I'm enthusiastically exploring the realms of web development, focusing on front-end technologies to create engaging and responsive user experiences.
 
-🌱 Currently, my learning journey involves diving deep into React JS and Angular, sharpening my skills to build robust web applications.
+🌱 Currently, my learning journey involves diving deep into **React JS and Angular**, sharpening my skills to build robust web applications.
 
 💡 Fun fact: Honey never spoils – archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!
 
