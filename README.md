@@ -13,12 +13,17 @@
 
 <div align="center">
 
-🔭 I'm currently a **Final Year** student from **Pimpri Chinchwad College of Engineering, Pune**.
- 
- 🌱 I’m currently learning **React JS, Angular**
+👋 Hey there! I'm **Harshal Dharmapurikar**, a passionate **Front-End Developer** currently in my **final year** at **Pimpri Chinchwad College of Engineering, Pune**.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🔭 I'm enthusiastically exploring the realms of web development, focusing on front-end technologies to create engaging and responsive user experiences.
 
+🌱 Currently, my learning journey involves diving deep into React JS and Angular, sharpening my skills to build robust web applications.
+
+💡 Fun fact: Did you know Game of Thrones Night's Watch cloaks are made from Ikea rugs? There's always something intriguing to discover!
+
+📫 You can reach out to me through [LinkedIn](www.linkedin.com/in/harshal-dharmapurikar) for collaboration or [Twitter]() for some interesting discussions.
+
+⚡ Let's connect and build the web of tomorrow together!
  </div>
 
  </div>
